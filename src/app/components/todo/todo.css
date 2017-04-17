@@ -1,0 +1,5 @@
+.todo-text {
+    display: inline-block;
+    text-align: center;
+    min-width: 200px;
+}
